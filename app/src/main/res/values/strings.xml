@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HarryPotterQuiz</string>
+    <string name="welcome">Welcome</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="lets_play">Lets Play!</string>
+    <string name="enter_your_question">Enter Your Question</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="submit">Submit</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="your_score_is">Your score is</string>
+    <string name="_4_5">4/5</string>
+</resources>
